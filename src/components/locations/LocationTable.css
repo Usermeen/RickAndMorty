@@ -1,0 +1,10 @@
+.thead-dark th{
+	cursor:default;
+}
+form.input-group{
+	margin-top: 20px;
+	max-width: 500px;
+}
+form.input-group button{
+	margin-left: 10px;
+}

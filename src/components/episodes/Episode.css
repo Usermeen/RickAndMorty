@@ -1,0 +1,7 @@
+.modal-footer{
+	position: relative;
+}
+.modal-footer :first-child{
+	position: absolute;
+	left:0
+}

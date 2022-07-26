@@ -1,0 +1,26 @@
+.alive {
+  color: green;
+}
+
+.dead {
+  color: red;
+}
+
+.unknown {
+  color: blue;
+}
+.main{
+	display: flex;
+	flex-direction: column;
+	min-height: 100%;
+}
+.container{
+	flex:1 0 auto;
+
+}
+#root, body, html {
+	height: 100%;
+}
+footer {
+	margin-top: 20px;
+}
